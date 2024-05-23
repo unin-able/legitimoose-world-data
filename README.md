@@ -13,5 +13,5 @@ Automatically updating world data snapshots from the `legitimoose.com` server's 
   - Votes
   - Date created in Unix time
   - Resource pack enabled?
-  - Player count
+  - Player count (-1 if offline)
 - Uses [legitimoose-world-scraper](https://github.com/unin-able/legitimoose-world-scraper) to scrape and upload the data
