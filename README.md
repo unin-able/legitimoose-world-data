@@ -1,5 +1,8 @@
 # legitimoose-world-data
-Automatically updating world data snapshots from the `legitimoose.com` server's worlds.
+12 world data snapshots from the `legitimoose.com` server's worlds.
+
+#### Note
+This current repository does not include the scraper used, view my [legitimoose-world-data](https://github.com/unin-able/legitimoose-world-data) repository for the scraper without automatic GitHub uploading.
 
 ## About
 - Contains `.csv` and `.json` files containing world data
